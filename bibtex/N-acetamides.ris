@@ -1,0 +1,26 @@
+TY  - JOUR
+AU  - Ejaz, Syeda Abida
+AU  - Farid, Aftab
+AU  - Zargar, Seema
+AU  - Channar, Pervaiz Ali
+AU  - Aziz, Mubashir
+AU  - Wani, Tanveer A.
+AU  - Attaullah, Hafiz Muhammad
+AU  - Ujhan, Rabail
+AU  - Tehzeeb, Arfa
+AU  - Saeed, Aamer
+AU  - Ali, Hafiz Saqib
+AU  - Erben, Mauricio F.
+PY  - 2023
+DA  - 2023/08/14
+TI  - Computational and theoretical chemistry of newly synthesized and characterized 2,2’-(5,5’-(1,4-phenylene)bis(1H-tetrazole-5,1-diyl))bis-N-acetamides
+JO  - BMC Chemistry
+SP  - 97
+VL  - 17
+IS  - 1
+AB  - Energetic heterocycles, including pyridines, triazoles, and tetrazoles, exhibit greater density, heats of formation, and oxygen balance compared to their carbocyclic counterparts, making them a promising approach for synthesizing novel bis-tetrazole acetamides. Synthesized compounds A-F, some of which feature a chlorine atom attached to the phenyl ring, serve as valuable synthons for aryl coupling reactions. Analysis via 1H-NMR and 13C-NMR spectroscopy, as well as density functional considerations through B3LYP functional correlation with 6-311 +  + G(d) and 6-31G(d) basis set, revealed the observed LUMO/HOMO energies and charge transfer within the molecule. Additionally, the dipole moment, chemical hardness, softness, ionization potential, local reactivity potential via Fukui indices and thermodynamic properties (entropy, enthalpy, and Gibbs free energy) of the molecule were calculated through density functional theory studies. In addition, Molecular Docking studies were conducted to investigate the anti-cancer potential of synthesized heterocyclic compounds against caspase 3, NF-KAPPA-B and P53 protein. Molecular docking analysis demonstrated a potent interaction between 2,2’-(5,5’-(1,4-phenylene)bis(1H-tetrazole-5,1-diyl))bis-N-(2,4-dinitrophenyl) acetamides (6d) and TP53 and NF-KAPPA-B with binding energies of − 11.8 kJ/mol and − 10.9 kJ/mol for TP53 and NF-KAPPA-B, respectively. Similarly, 2,2’-(5,5’–(1,4-phenylene)bis(1H-tetrazole-5,1-diyl))bis-N-(2-chlorophenyl) acetamides (6f) exhibited a strong interaction with caspase-3 with binding energy of -10.0 kJ/mol, indicating their potential as therapeutic agents against these proteins. Furthermore, the findings of current study was further strengthen by 100 ns molecular dynamics (MD) simulations. Finally, theoretical studies of oxygen balance and nitrogen percentage suggest that these molecules can be utilized as energetic materials.
+SN  - 2661-801X
+UR  - https://doi.org/10.1186/s13065-023-01011-3
+DO  - 10.1186/s13065-023-01011-3
+ID  - Ejaz2023
+ER  - 
