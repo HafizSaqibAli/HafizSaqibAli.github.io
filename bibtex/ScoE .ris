@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Ali, Hafiz Saqib
+AU  - Ghafoor, Sidra
+AU  - de Visser, Sam P.
+PY  - 2022
+DA  - 2022/02/01
+TI  - Density Functional Theory Study into the Reaction Mechanism of Isonitrile Biosynthesis by the Nonheme Iron Enzyme ScoE
+JO  - Topics in Catalysis
+SP  - 528
+EP  - 543
+VL  - 65
+IS  - 1
+AB  - The nonheme iron enzyme ScoE catalyzes the biosynthesis of an isonitrile substituent in a peptide chain. To understand details of the reaction mechanism we created a large active site cluster model of 212 atoms that contains substrate, the active oxidant and the first- and second-coordination sphere of the protein and solvent. Several possible reaction mechanisms were tested and it is shown that isonitrile can only be formed through two consecutive catalytic cycles that both use one molecule of dioxygen and α-ketoglutarate. In both cycles the active species is an iron(IV)-oxo species that in the first reaction cycle reacts through two consecutive hydrogen atom abstraction steps: first from the N–H group and thereafter from the C–H group to desaturate the NH-CH2 bond. The alternative ordering of hydrogen atom abstraction steps was also tested but found to be higher in energy. Moreover, the electronic configurations along that pathway implicate an initial hydride transfer followed by proton transfer. We highlight an active site Lys residue that is shown to donate charge in the transition states and influences the relative barrier heights and bifurcation pathways. A second catalytic cycle of the reaction of iron(IV)-oxo with desaturated substrate starts with hydrogen atom abstraction followed by decarboxylation to give isonitrile directly. The catalytic cycle is completed with a proton transfer to iron(II)-hydroxo to generate the iron(II)-water resting state. The work is compared with experimental observation and previous computational studies on this system and put in a larger perspective of nonheme iron chemistry.
+SN  - 1572-9028
+UR  - https://doi.org/10.1007/s11244-021-01460-x
+DO  - 10.1007/s11244-021-01460-x
+ID  - Ali2022
+ER  - 
