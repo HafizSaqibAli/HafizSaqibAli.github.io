@@ -1,0 +1,20 @@
+TY  - JOUR
+AU  - Ali, Hafiz Saqib
+AU  - Chakravorty, Arghya
+AU  - Kalayan, Jas
+AU  - de Visser, Samuel P.
+AU  - Henchman, Richard H.
+PY  - 2021
+DA  - 2021/08/01
+TI  - Energy–entropy method using multiscale cell correlation to calculate binding free energies in the SAMPL8 host–guest challenge
+JO  - Journal of Computer-Aided Molecular Design
+SP  - 911
+EP  - 921
+VL  - 35
+IS  - 8
+AB  - Free energy drives a wide range of molecular processes such as solvation, binding, chemical reactions and conformational change. Given the central importance of binding, a wide range of methods exist to calculate it, whether based on scoring functions, machine-learning, classical or electronic structure methods, alchemy, or explicit evaluation of energy and entropy. Here we present a new energy–entropy (EE) method to calculate the host–guest binding free energy directly from molecular dynamics (MD) simulation. Entropy is evaluated using Multiscale Cell Correlation (MCC) which uses force and torque covariance and contacts at two different length scales. The method is tested on a series of seven host–guest complexes in the SAMPL8 (Statistical Assessment of the Modeling of Proteins and Ligands) “Drugs of Abuse” Blind Challenge. The EE-MCC binding free energies are found to agree with experiment with an average error of 0.9 kcal mol−1. MCC makes clear the origin of the entropy changes, showing that the large loss of positional, orientational, and to a lesser extent conformational entropy of each binding guest is compensated for by a gain in orientational entropy of water released to bulk, combined with smaller decreases in vibrational entropy of the host, guest and contacting water.
+SN  - 1573-4951
+UR  - https://doi.org/10.1007/s10822-021-00406-5
+DO  - 10.1007/s10822-021-00406-5
+ID  - Ali2021
+ER  - 
