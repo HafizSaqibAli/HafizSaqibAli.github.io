@@ -1,0 +1,23 @@
+TY  - JOUR
+AU  - Hussain, Wajid
+AU  - Ali, Hafiz Saqib
+AU  - Iqbal, Muhammad Shahid
+AU  - Bashir, Muhammad Rashid
+AU  - Khan, Maroof Ahmad
+AU  - Hanif, Muhammad
+AU  - Sandali, Yahya
+AU  - Irfan, Ahmad
+AU  - Li, Hui
+PY  - 2024
+DA  - 2024/03/15
+TI  - Exploring nonlinear optical properties of perylene diimide and biomolecules complexes: a computational supramolecular study
+JO  - Theoretical Chemistry Accounts
+SP  - 27
+VL  - 143
+IS  - 4
+AB  - This study investigates the supramolecular interactions between perylene diimides (PDI) and nucleotides, specifically adenosine monophosphate (AMP) and cytidine monophosphate (CMP). Ten complexes (complex 1 (l-ala-PDI-AMP), complex 2 (B-ala-PDI-AMP), complex 3 (GLY-PDI-AMP), complex 4 (IMI-PDI-AMP), complex 5 (PYR-PDI-AMP, complex 6 (l-ala-PDI-CMP), complex 7 (B-ala-PDI-CMP), complex 8 (GLY-PDI-CMP), complex 9 (IMI-PDI-CMP), and complex 10 (PYR-PDI-CMP), were simulated using the B3LYP/6-31G(d,p) level of DFT method. The study explores NMR, IR, UV, hyperpolarizabilities, frontier molecular orbitals (FMOs), density of states (DOS), noncovalent interactions (NCI), iso-surface analysis, atom in molecule (AIM), dipole moment (µ), electron density distribution map (EDDM), transition density matrix (TDM), molecular electrostatic potential (MEP), and electron–hole analysis (EHA) using differential functional theory (DFT). The weak bonds formed were visualized using Discovery Studio Visualizer. The electronic properties of the complexes were examined through natural bond orbital (NBO) and natural population analysis (NPA), leading to nonlinear optics (NLO) study. Complex 6 demonstrates the highest NLO activity with γ static of 17,424,700.00, and complex 10 exhibits the weakest NLO activity with second dipole hyperpolarizability (γ static) at 25,116.10. Moreover, global reactivity factors for complexes 1–5 show EA ranging from 6.53 to 7.7, and ionization potential (IP) spans 7.8–8.8. Global hardness values highlight complex 4 as the hardest (η = 0.55) and complex 1 as the softest (η = 0.51). Electronegativity (X) varies from 7.28 to 8.25, with complex 3 being the most electronegative. Chemical potential (μ) ranges from − 7.9 to − 8.25, global softness (σ) identifies complex 1 as the softest (0.2575) and complex 4 as the hardest (0.435). Electrophilicity (ω) ranges from 33.30 to 61.87. Complexes 6–10 show EA from 6.7 to 7.53. IP values range from 8.4 to 8.6, with complexes 7 and 10 highest. Global hardness spans 0.53 to 0.85. X ranges from 7.55 to 8.06, with complex 7 the most electronegative. μ varies from − 7.55 to − 8.06, and complex 7 has the lowest. From σ values, complexes 9 and 10 are the softest. ω ranges from 35.53 to 60.78, with complex 7 the most electrophilic.
+SN  - 1432-2234
+UR  - https://doi.org/10.1007/s00214-024-03098-w
+DO  - 10.1007/s00214-024-03098-w
+ID  - Hussain2024
+ER  - 
